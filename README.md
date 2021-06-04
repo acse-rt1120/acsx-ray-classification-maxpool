@@ -103,14 +103,6 @@ We finally choose the following values of parameters in ResNet-18.
 #### ROC curves
 ![](./img/ROC_curves.png)
 
-## Way Forward
-
-
-
-
-
-
-
 
 ## Notebooks Description
 
@@ -158,8 +150,8 @@ Using  Pytorch- lightning packages  is better for our RAM and GPU space and mult
 
    Gauss Laplacian Pyramid Algorithm can be used for produce Accurate Super-Resolution images. And help our model to find more features. (from fig1 to fig2)
 
-   ![image-20210520153320439](img/image-20210520153320439-1621500988630.png)
-   ![image-20210520153345211](img/image-20210520153345211.png)
+   ![image-20210520153320439](./img/image-20210520153320439-1621500988630.png)
+   ![image-20210520153345211](./img/image-20210520153345211.png)
 
 5. Training Step
    
